@@ -19,6 +19,7 @@ defusedxml==0.7.1
 entrypoints==0.4
 executing==1.0.0
 fastjsonschema==2.16.1
+gunicorn
 holoviews==1.15.0
 hvplot==0.8.1
 idna==3.3
